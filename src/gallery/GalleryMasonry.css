@@ -1,0 +1,39 @@
+/* Styly Galerie Feed ------------------ */
+
+.b-gal-masonry {
+    padding: 20px;
+}
+
+.b-gal-masonry .b-gal-w {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.b-gal-masonry .b-gal-item {
+    width: calc(100% / 2 - 1rem);
+    margin: 0.5rem;
+    border-radius: 5px;
+}
+
+@media (min-width: 700px) {
+    .b-gal-masonry .b-gal-item {
+        width: calc(100% / 3 - 1rem);
+        /*margin: 0.5rem;*/
+    }
+}
+
+@media (min-width: 1200px) {
+    .b-gal-masonry .b-gal-item {
+        width: calc(100% / 4 - 1rem);
+        /*margin: 0.5rem;*/
+    }
+}
+
+.b-gal-masonry picture {
+    position: relative !important;
+}
+
+.b-gal-masonry .b-gal-item img {
+    border-radius: 5px;
+}

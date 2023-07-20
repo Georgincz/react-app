@@ -1,13 +1,28 @@
-import logo from './logo.svg';
+import React from 'react';
+import { Outlet, NavLink } from "react-router-dom";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+      <header>
+        <h1>React Web & Apps</h1>
+        <nav>
+          <NavLink className={({ isActive }) => isActive ? "red" : "blue"} to="/">Home</NavLink>{" | "}
+          <NavLink className={({ isActive }) => isActive ? "red" : "blue"} to="/pokeapi">Pokeapi</NavLink> |{" "}
+          <NavLink className={({ isActive }) => isActive ? "red" : "blue"} to="/gallery-classic">Gallery Classic</NavLink>{" | "}
+          <NavLink className={({ isActive }) => isActive ? "red" : "blue"} to="/gallery-masonry">Gallery Masonry</NavLink>{" | "}
+          <NavLink className={({ isActive }) => isActive ? "red" : "blue"} to="/gallery-feed">Gallery Feed</NavLink>{" | "}
+          <NavLink className={({ isActive }) => isActive ? "red" : "blue"} to="/gallery-horizontal">Gallery Horizontal</NavLink>{" | "}
+          <NavLink className={({ isActive }) => isActive ? "red" : "blue"} to="/eshop">Eshop</NavLink>
+        </nav>
+      </header>
+      <section>
+       <Outlet />
+      </section>
+      <footer>
+      <p>
+          Created with React © 2023.
         </p>
         <a
           className="App-link"
@@ -17,7 +32,7 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      </footer>
     </div>
   );
 }
