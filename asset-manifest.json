@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.33913df6.css",
-    "main.js": "/react-app/static/js/main.970d5b46.js",
+    "main.css": "/react-app/static/css/main.1b1d56c9.css",
+    "main.js": "/react-app/static/js/main.77e0f91e.js",
     "static/js/981.48c79ce9.chunk.js": "/react-app/static/js/981.48c79ce9.chunk.js",
     "static/js/787.62ea5e01.chunk.js": "/react-app/static/js/787.62ea5e01.chunk.js",
     "static/media/bundy.svg": "/react-app/static/media/bundy.b77e08ce3185dc440304.svg",
@@ -16,13 +16,13 @@
     "static/media/zacatecnik.svg": "/react-app/static/media/zacatecnik.8a49ce08232ac30fdafa.svg",
     "static/media/expert.svg": "/react-app/static/media/expert.d378c1c6ec8831ae48b7.svg",
     "index.html": "/react-app/index.html",
-    "main.33913df6.css.map": "/react-app/static/css/main.33913df6.css.map",
-    "main.970d5b46.js.map": "/react-app/static/js/main.970d5b46.js.map",
+    "main.1b1d56c9.css.map": "/react-app/static/css/main.1b1d56c9.css.map",
+    "main.77e0f91e.js.map": "/react-app/static/js/main.77e0f91e.js.map",
     "981.48c79ce9.chunk.js.map": "/react-app/static/js/981.48c79ce9.chunk.js.map",
     "787.62ea5e01.chunk.js.map": "/react-app/static/js/787.62ea5e01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33913df6.css",
-    "static/js/main.970d5b46.js"
+    "static/css/main.1b1d56c9.css",
+    "static/js/main.77e0f91e.js"
   ]
 }
