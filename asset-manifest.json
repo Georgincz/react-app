@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.7e06e540.css",
-    "main.js": "/react-app/static/js/main.349e4408.js",
+    "main.css": "/react-app/static/css/main.f198abcb.css",
+    "main.js": "/react-app/static/js/main.1fd2306e.js",
     "static/js/981.48c79ce9.chunk.js": "/react-app/static/js/981.48c79ce9.chunk.js",
     "static/js/787.62ea5e01.chunk.js": "/react-app/static/js/787.62ea5e01.chunk.js",
-    "static/media/ic_delivery.svg": "/react-app/static/media/ic_delivery.16f2b37a2206878148e4.svg",
+    "static/media/ic_delivery.svg": "/react-app/static/media/ic_delivery.ce529196d01293db65b6.svg",
     "static/media/kosik.svg": "/react-app/static/media/kosik.38035d39d0f5284b16d9.svg",
     "static/media/ucet.svg": "/react-app/static/media/ucet.b72399c92d3068f5cf6c.svg",
     "static/media/probiha.svg": "/react-app/static/media/probiha.32ee5a9f19659ee678a9.svg",
@@ -22,18 +22,18 @@
     "static/media/drobeckova-sipka.svg": "/react-app/static/media/drobeckova-sipka.125179af3b794d47f77d.svg",
     "static/media/vyrizeno.svg": "/react-app/static/media/vyrizeno.40f79c89260fbf205827.svg",
     "static/media/minus.svg": "/react-app/static/media/minus.8c2fe8acf7e864d0fefe.svg",
-    "static/media/sipka1.svg": "/react-app/static/media/sipka1.5a2c933e2956eadb620c.svg",
+    "static/media/sipka1.svg": "/react-app/static/media/sipka1.fd8791190fa77c1ebbf5.svg",
     "static/media/pokrocily.svg": "/react-app/static/media/pokrocily.1385bf0f138b1d7f3595.svg",
     "static/media/zacatecnik.svg": "/react-app/static/media/zacatecnik.8a49ce08232ac30fdafa.svg",
     "static/media/expert.svg": "/react-app/static/media/expert.d378c1c6ec8831ae48b7.svg",
     "index.html": "/react-app/index.html",
-    "main.7e06e540.css.map": "/react-app/static/css/main.7e06e540.css.map",
-    "main.349e4408.js.map": "/react-app/static/js/main.349e4408.js.map",
+    "main.f198abcb.css.map": "/react-app/static/css/main.f198abcb.css.map",
+    "main.1fd2306e.js.map": "/react-app/static/js/main.1fd2306e.js.map",
     "981.48c79ce9.chunk.js.map": "/react-app/static/js/981.48c79ce9.chunk.js.map",
     "787.62ea5e01.chunk.js.map": "/react-app/static/js/787.62ea5e01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e06e540.css",
-    "static/js/main.349e4408.js"
+    "static/css/main.f198abcb.css",
+    "static/js/main.1fd2306e.js"
   ]
 }
