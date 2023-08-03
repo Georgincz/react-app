@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.4b556f6d.css",
-    "main.js": "/react-app/static/js/main.6325cad7.js",
+    "main.css": "/react-app/static/css/main.98e32170.css",
+    "main.js": "/react-app/static/js/main.8a8e3f81.js",
     "static/js/981.48c79ce9.chunk.js": "/react-app/static/js/981.48c79ce9.chunk.js",
     "static/js/787.62ea5e01.chunk.js": "/react-app/static/js/787.62ea5e01.chunk.js",
     "static/media/ic_delivery.svg": "/react-app/static/media/ic_delivery.ce529196d01293db65b6.svg",
@@ -28,13 +28,13 @@
     "static/media/zacatecnik.svg": "/react-app/static/media/zacatecnik.8a49ce08232ac30fdafa.svg",
     "static/media/expert.svg": "/react-app/static/media/expert.d378c1c6ec8831ae48b7.svg",
     "index.html": "/react-app/index.html",
-    "main.4b556f6d.css.map": "/react-app/static/css/main.4b556f6d.css.map",
-    "main.6325cad7.js.map": "/react-app/static/js/main.6325cad7.js.map",
+    "main.98e32170.css.map": "/react-app/static/css/main.98e32170.css.map",
+    "main.8a8e3f81.js.map": "/react-app/static/js/main.8a8e3f81.js.map",
     "981.48c79ce9.chunk.js.map": "/react-app/static/js/981.48c79ce9.chunk.js.map",
     "787.62ea5e01.chunk.js.map": "/react-app/static/js/787.62ea5e01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b556f6d.css",
-    "static/js/main.6325cad7.js"
+    "static/css/main.98e32170.css",
+    "static/js/main.8a8e3f81.js"
   ]
 }
