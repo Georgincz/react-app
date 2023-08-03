@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.11a8f0ac.css",
-    "main.js": "/react-app/static/js/main.1fd2306e.js",
+    "main.css": "/react-app/static/css/main.4b556f6d.css",
+    "main.js": "/react-app/static/js/main.6325cad7.js",
     "static/js/981.48c79ce9.chunk.js": "/react-app/static/js/981.48c79ce9.chunk.js",
     "static/js/787.62ea5e01.chunk.js": "/react-app/static/js/787.62ea5e01.chunk.js",
     "static/media/ic_delivery.svg": "/react-app/static/media/ic_delivery.ce529196d01293db65b6.svg",
@@ -10,6 +10,7 @@
     "static/media/probiha.svg": "/react-app/static/media/probiha.32ee5a9f19659ee678a9.svg",
     "static/media/info.svg": "/react-app/static/media/info.0a734e0c303ba270a22b.svg",
     "static/media/odhlasit.svg": "/react-app/static/media/odhlasit.d0d8b1fde888d7f44983.svg",
+    "static/media/zavrit-light.svg": "/react-app/static/media/zavrit-light.bee26bae61af6d31a49521f0456d4fe1.svg",
     "static/media/bundy.svg": "/react-app/static/media/bundy.b77e08ce3185dc440304.svg",
     "static/media/zavrit.svg": "/react-app/static/media/zavrit.763a6da702ae527bbce4.svg",
     "static/media/zruseno.svg": "/react-app/static/media/zruseno.483e9985fc6638ef497a.svg",
@@ -27,13 +28,13 @@
     "static/media/zacatecnik.svg": "/react-app/static/media/zacatecnik.8a49ce08232ac30fdafa.svg",
     "static/media/expert.svg": "/react-app/static/media/expert.d378c1c6ec8831ae48b7.svg",
     "index.html": "/react-app/index.html",
-    "main.11a8f0ac.css.map": "/react-app/static/css/main.11a8f0ac.css.map",
-    "main.1fd2306e.js.map": "/react-app/static/js/main.1fd2306e.js.map",
+    "main.4b556f6d.css.map": "/react-app/static/css/main.4b556f6d.css.map",
+    "main.6325cad7.js.map": "/react-app/static/js/main.6325cad7.js.map",
     "981.48c79ce9.chunk.js.map": "/react-app/static/js/981.48c79ce9.chunk.js.map",
     "787.62ea5e01.chunk.js.map": "/react-app/static/js/787.62ea5e01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11a8f0ac.css",
-    "static/js/main.1fd2306e.js"
+    "static/css/main.4b556f6d.css",
+    "static/js/main.6325cad7.js"
   ]
 }
