@@ -1,9 +1,21 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.74b31da8.css",
-    "main.js": "/react-app/static/js/main.8627b3ab.js",
-    "static/js/981.48c79ce9.chunk.js": "/react-app/static/js/981.48c79ce9.chunk.js",
+    "main.css": "/react-app/static/css/main.fc016f92.css",
+    "main.js": "/react-app/static/js/main.ba18e20e.js",
+    "static/js/981.0c935ddf.chunk.js": "/react-app/static/js/981.0c935ddf.chunk.js",
     "static/js/787.62ea5e01.chunk.js": "/react-app/static/js/787.62ea5e01.chunk.js",
+    "static/media/sklipek-u-kozliku.jpg": "/react-app/static/media/sklipek-u-kozliku.b5a99b89b6e6a6ccb0df.jpg",
+    "static/media/vinaripavlov.jpg": "/react-app/static/media/vinaripavlov.e1567baef00956c1ef6a.jpg",
+    "static/media/ivk.jpg": "/react-app/static/media/ivk.c3eab9713bd5028a3a9e.jpg",
+    "static/media/rytirivina.jpg": "/react-app/static/media/rytirivina.4441d3108f9bcd783d19.jpg",
+    "static/media/horni-bojanovice.jpg": "/react-app/static/media/horni-bojanovice.e63f1db300e0e4fb08ec.jpg",
+    "static/media/palavaart.jpg": "/react-app/static/media/palavaart.c529a58863272edd805a.jpg",
+    "static/media/ynna.jpg": "/react-app/static/media/ynna.2083e1aa35c99d998e62.jpg",
+    "static/media/motorservis.jpg": "/react-app/static/media/motorservis.e3b8e56aa461172c31d7.jpg",
+    "static/media/vinport.jpg": "/react-app/static/media/vinport.d4720d0a335e933e3558.jpg",
+    "static/media/kchmpp.jpg": "/react-app/static/media/kchmpp.afde89cec38bfc06083a.jpg",
+    "static/media/zs-komenskeho.jpg": "/react-app/static/media/zs-komenskeho.c8c10cf3c3037f473382.jpg",
+    "static/media/animovane-bannery.jpg": "/react-app/static/media/animovane-bannery.60276eea0bb4f495b506.jpg",
     "static/media/ic_delivery.svg": "/react-app/static/media/ic_delivery.ce529196d01293db65b6.svg",
     "static/media/kosik.svg": "/react-app/static/media/kosik.38035d39d0f5284b16d9.svg",
     "static/media/ucet.svg": "/react-app/static/media/ucet.b72399c92d3068f5cf6c.svg",
@@ -28,13 +40,13 @@
     "static/media/zacatecnik.svg": "/react-app/static/media/zacatecnik.8a49ce08232ac30fdafa.svg",
     "static/media/expert.svg": "/react-app/static/media/expert.d378c1c6ec8831ae48b7.svg",
     "index.html": "/react-app/index.html",
-    "main.74b31da8.css.map": "/react-app/static/css/main.74b31da8.css.map",
-    "main.8627b3ab.js.map": "/react-app/static/js/main.8627b3ab.js.map",
-    "981.48c79ce9.chunk.js.map": "/react-app/static/js/981.48c79ce9.chunk.js.map",
+    "main.fc016f92.css.map": "/react-app/static/css/main.fc016f92.css.map",
+    "main.ba18e20e.js.map": "/react-app/static/js/main.ba18e20e.js.map",
+    "981.0c935ddf.chunk.js.map": "/react-app/static/js/981.0c935ddf.chunk.js.map",
     "787.62ea5e01.chunk.js.map": "/react-app/static/js/787.62ea5e01.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74b31da8.css",
-    "static/js/main.8627b3ab.js"
+    "static/css/main.fc016f92.css",
+    "static/js/main.ba18e20e.js"
   ]
 }
